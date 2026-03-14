@@ -1,1 +1,0 @@
-import{d as o,u as n,c as r,a as t,t as s,b as a,o as c}from"./index-BetwCahp.js";const i={class:"text-3xl font-bold"},d={class:"text-muted-foreground"},f=o({__name:"Overview",setup(_){const{t:e}=n();return(l,u)=>(c(),r("div",null,[t("h1",i,s(a(e)("settings.dataOverview")),1),t("p",d,s(a(e)("settings.dataOverviewDesc")),1)]))}});export{f as default};

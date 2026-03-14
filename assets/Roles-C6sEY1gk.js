@@ -1,0 +1,1 @@
+import{d as o,u as a,c,a as t,t as s,b as n,o as r}from"./index-DAj5PCUR.js";const l={class:"text-3xl font-bold"},_={class:"text-muted-foreground"},p=o({__name:"Roles",setup(d){const{t:e}=a();return(i,u)=>(r(),c("div",null,[t("h1",l,s(n(e)("settings.roleManagement")),1),t("p",_,s(n(e)("settings.roleManagementDesc")),1)]))}});export{p as default};

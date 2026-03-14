@@ -1,0 +1,1 @@
+import{d as n,u as r,c as a,a as t,t as s,b as o,o as c}from"./index-DAj5PCUR.js";const p={class:"text-3xl font-bold"},_={class:"text-muted-foreground"},f=n({__name:"Reports",setup(l){const{t:e}=r();return(d,i)=>(c(),a("div",null,[t("h1",p,s(o(e)("settings.reportCenter")),1),t("p",_,s(o(e)("settings.reportCenterDesc")),1)]))}});export{f as default};
