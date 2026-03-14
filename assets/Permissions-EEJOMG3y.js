@@ -1,0 +1,1 @@
+import{d as o,u as a,c as i,a as e,t,b as n,o as r}from"./index-BetwCahp.js";const c={class:"text-3xl font-bold"},_={class:"text-muted-foreground"},u=o({__name:"Permissions",setup(l){const{t:s}=a();return(p,d)=>(r(),i("div",null,[e("h1",c,t(n(s)("settings.permissionSettings")),1),e("p",_,t(n(s)("settings.permissionSettingsDesc")),1)]))}});export{u as default};
