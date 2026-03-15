@@ -1,0 +1,1 @@
+import{L as e,_ as t,b as n,gt as r,n as i,w as a,xt as o}from"./vue-i18n-B92W4MWS.js";var s={class:`text-3xl font-bold`},c={class:`text-muted-foreground`},l=a({__name:`Users`,setup(a){let{t:l}=i();return(i,a)=>(e(),n(`div`,null,[t(`h1`,s,o(r(l)(`menu.users`)),1),t(`p`,c,o(r(l)(`menu.usersDescription`)),1)]))}});export{l as default};
