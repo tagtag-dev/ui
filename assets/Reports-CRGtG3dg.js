@@ -1,0 +1,1 @@
+import{Ct as e,R as t,_ as n,b as r,n as i,vt as a,w as o}from"./vue-i18n-BTVg52Bb.js";var s={class:`text-3xl font-bold`},c={class:`text-muted-foreground`},l=o({__name:`Reports`,setup(o){let{t:l}=i();return(i,o)=>(t(),r(`div`,null,[n(`h1`,s,e(a(l)(`settings.reportCenter`)),1),n(`p`,c,e(a(l)(`settings.reportCenterDesc`)),1)]))}});export{l as default};
