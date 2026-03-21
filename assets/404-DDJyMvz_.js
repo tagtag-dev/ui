@@ -1,0 +1,1 @@
+import{R as e,n as t,v as n,vt as r,w as i}from"./vue-i18n-BTVg52Bb.js";import"./src-CCy2L8uS.js";import{t as a}from"./ErrorPage-trnsmGhM.js";var o=i({__name:`404`,setup(i){let{t:o}=t();return(t,i)=>(e(),n(a,{code:`404`,title:r(o)(`error.pageNotFound`),description:r(o)(`error.pageNotFoundDesc`),emoji:`🔍`},null,8,[`title`,`description`]))}});export{o as default};
