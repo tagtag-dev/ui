@@ -1,0 +1,1 @@
+var e={LOCALE:`tabtab-locale`,THEME:`tabtab-theme`,USER:`tabtab-user`,USER_TOKEN:`tabtab-user-token`};export{e as t};
