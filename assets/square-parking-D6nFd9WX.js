@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`square-parking`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M9 17V7h4a3 3 0 0 1 0 6H9`,key:`1dfk2c`}]]);export{t as default};

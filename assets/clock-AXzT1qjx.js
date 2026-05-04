@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{D as t}from"./index-aMhjv1wk.js";var n=e({default:()=>r}),r=t(`clock`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 6v6l4 2`,key:`mmk7yg`}]]);export{n,r as t};

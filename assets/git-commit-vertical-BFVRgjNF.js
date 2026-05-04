@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`git-commit-vertical`,[[`path`,{d:`M12 3v6`,key:`1holv5`}],[`circle`,{cx:`12`,cy:`12`,r:`3`,key:`1v7zrd`}],[`path`,{d:`M12 15v6`,key:`a9ows0`}]]);export{t as default};

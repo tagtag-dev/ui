@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`contrast`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 18a6 6 0 0 0 0-12v12z`,key:`j4l70d`}]]);export{t as default};

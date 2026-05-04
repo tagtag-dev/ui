@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`chevrons-left-right-ellipsis`,[[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M16 12h.01`,key:`1l6xoz`}],[`path`,{d:`m17 7 5 5-5 5`,key:`1xlxn0`}],[`path`,{d:`m7 7-5 5 5 5`,key:`19njba`}],[`path`,{d:`M8 12h.01`,key:`czm47f`}]]);export{t as default};

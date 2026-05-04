@@ -1,1 +1,0 @@
-import{Rt as e,St as t,Wt as n,sn as r,zn as i}from"./dist-yWVHIOK6.js";import{t as a}from"./ErrorPage-DaZtYHH-.js";var o=n({__name:`404`,setup(n){let{t:o}=t();return(t,n)=>(r(),e(a,{code:`404`,title:i(o)(`error.pageNotFound`),description:i(o)(`error.pageNotFoundDesc`),emoji:`🔍`},null,8,[`title`,`description`]))}});export{o as default};

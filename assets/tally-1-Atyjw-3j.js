@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`tally-1`,[[`path`,{d:`M4 4v16`,key:`6qkkli`}]]);export{t as default};

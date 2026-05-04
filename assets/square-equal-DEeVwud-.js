@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`square-equal`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M7 10h10`,key:`1101jm`}],[`path`,{d:`M7 14h10`,key:`1mhdw3`}]]);export{t as default};

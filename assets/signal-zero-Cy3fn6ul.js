@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`signal-zero`,[[`path`,{d:`M2 20h.01`,key:`4haj6o`}]]);export{t as default};

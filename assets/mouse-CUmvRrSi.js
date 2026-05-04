@@ -1,0 +1,1 @@
+import{D as e}from"./index-aMhjv1wk.js";var t=e(`mouse`,[[`rect`,{x:`5`,y:`2`,width:`14`,height:`20`,rx:`7`,key:`11ol66`}],[`path`,{d:`M12 6v4`,key:`16clxf`}]]);export{t as default};
