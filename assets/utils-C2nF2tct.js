@@ -1,0 +1,1 @@
+function e(e){return(t,n)=>n(`${e}${t.charAt(0).toUpperCase()+t.slice(1)}`)}function t(e,t){return n=>e.map(e=>({label:t(e,n),value:e}))}var n={enabled:`default`,disabled:`secondary`};export{e as n,t as r,n as t};

@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`square-activity`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M17 12h-2l-2 5-2-10-2 5H7`,key:`15hlnc`}]]);export{t as default};

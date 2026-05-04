@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`clock-9`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 6v6H8`,key:`u39vzm`}]]);export{t as default};

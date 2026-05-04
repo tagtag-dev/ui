@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{D as t}from"./index-aMhjv1wk.js";var n=e({default:()=>r}),r=t(`monitor`,[[`rect`,{width:`20`,height:`14`,x:`2`,y:`3`,rx:`2`,key:`48i651`}],[`line`,{x1:`8`,x2:`16`,y1:`21`,y2:`21`,key:`1svkeh`}],[`line`,{x1:`12`,x2:`12`,y1:`17`,y2:`21`,key:`vw1qmm`}]]);export{n,r as t};

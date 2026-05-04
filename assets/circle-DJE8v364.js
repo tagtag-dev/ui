@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`circle`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]]);export{t as default};

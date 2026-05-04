@@ -1,0 +1,1 @@
+import{t as e}from"./lucide-shared-4Juvm31V.js";var t=e(`circle-chevron-down`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`m16 10-4 4-4-4`,key:`894hmk`}]]);export{t as default};

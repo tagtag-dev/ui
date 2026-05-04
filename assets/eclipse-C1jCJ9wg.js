@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`eclipse`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M12 2a7 7 0 1 0 10 10`,key:`1yuj32`}]]);export{t as default};

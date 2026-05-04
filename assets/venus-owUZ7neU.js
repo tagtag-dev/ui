@@ -1,0 +1,1 @@
+import{t as e}from"./lucide-shared-4Juvm31V.js";var t=e(`venus`,[[`path`,{d:`M12 15v7`,key:`t2xh3l`}],[`path`,{d:`M9 19h6`,key:`456am0`}],[`circle`,{cx:`12`,cy:`9`,r:`6`,key:`1nw4tq`}]]);export{t as default};

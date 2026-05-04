@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`text-align-justify`,[[`path`,{d:`M3 5h18`,key:`1u36vt`}],[`path`,{d:`M3 12h18`,key:`1i2n21`}],[`path`,{d:`M3 19h18`,key:`awlh7x`}]]);export{t as default};

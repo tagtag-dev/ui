@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{D as t}from"./index-aMhjv1wk.js";var n=e({default:()=>r}),r=t(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]);export{n,r as t};

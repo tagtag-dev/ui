@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{t}from"./lucide-shared-4Juvm31V.js";var n=e({default:()=>r}),r=t(`user-lock`,[[`path`,{d:`M19 16v-2a2 2 0 0 0-4 0v2`,key:`17sujf`}],[`path`,{d:`M9.5 15H7a4 4 0 0 0-4 4v2`,key:`9it25y`}],[`circle`,{cx:`10`,cy:`7`,r:`4`,key:`e45bow`}],[`rect`,{x:`13`,y:`16`,width:`8`,height:`5`,rx:`.899`,key:`ur80nz`}]]);export{n,r as t};

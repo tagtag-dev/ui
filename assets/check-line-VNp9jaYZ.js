@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`check-line`,[[`path`,{d:`M20 4L9 15`,key:`1qkx8z`}],[`path`,{d:`M21 19L3 19`,key:`100sma`}],[`path`,{d:`M9 15L4 10`,key:`9zxff7`}]]);export{t as default};

@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{D as t}from"./index-aMhjv1wk.js";var n=e({default:()=>r}),r=t(`chevrons-down-up`,[[`path`,{d:`m7 20 5-5 5 5`,key:`13a0gw`}],[`path`,{d:`m7 4 5 5 5-5`,key:`1kwcof`}]]);export{n,r as t};

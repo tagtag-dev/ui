@@ -1,0 +1,1 @@
+import{t as e}from"./lucide-shared-4Juvm31V.js";var t=e(`x-line-top`,[[`path`,{d:`M18 4H6`,key:`1hsngl`}],[`path`,{d:`M18 8 6 20`,key:`xspwia`}],[`path`,{d:`m6 8 12 12`,key:`qb1veh`}]]);export{t as default};

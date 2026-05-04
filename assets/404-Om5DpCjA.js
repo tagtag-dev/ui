@@ -1,0 +1,1 @@
+import{G as e,O as t,Ot as n,b as r}from"./lucide-shared-4Juvm31V.js";import{Ii as i}from"./index-BgXvM6ZL.js";import{t as a}from"./ErrorPage-BpfnFlvP.js";var o=t({__name:`404`,setup(t){let{t:o}=i();return(t,i)=>(e(),r(a,{code:`404`,title:n(o)(`error.pageNotFound`),description:n(o)(`error.pageNotFoundDesc`),emoji:`🔍`},null,8,[`title`,`description`]))}});export{o as default};

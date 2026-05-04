@@ -1,0 +1,1 @@
+import{t as e}from"./lucide-shared-4Juvm31V.js";var t=e(`slash`,[[`path`,{d:`M22 2 2 22`,key:`y4kqgn`}]]);export{t as default};

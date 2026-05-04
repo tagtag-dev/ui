@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`wifi-zero`,[[`path`,{d:`M12 20h.01`,key:`zekei9`}]]);export{t as default};

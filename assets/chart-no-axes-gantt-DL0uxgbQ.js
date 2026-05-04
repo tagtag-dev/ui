@@ -1,1 +1,0 @@
-import{D as e}from"./index-aMhjv1wk.js";var t=e(`chart-no-axes-gantt`,[[`path`,{d:`M6 5h12`,key:`fvfigv`}],[`path`,{d:`M4 12h10`,key:`oujl3d`}],[`path`,{d:`M12 19h8`,key:`baeox8`}]]);export{t as default};
