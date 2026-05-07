@@ -4,39 +4,39 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#ffffff" />
     <title>TabTab Admin</title>
-    <script type="module" crossorigin src="/assets/index-BgXvM6ZL.js"></script>
+    <script>
+      ;(function () {
+        try {
+          var root = document.documentElement
+          var raw = localStorage.getItem('tabtab-theme')
+          var stored = raw ? JSON.parse(raw) : {}
+          var mode = stored.themeMode || 'system'
+          var isDark =
+            mode === 'dark' ||
+            (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+          if (isDark) {
+            root.classList.add('dark')
+          }
+          var radius = stored.borderRadius
+          if (radius != null) {
+            root.style.setProperty('--radius', radius + 'rem')
+          }
+        } catch (e) {}
+      })()
+    </script>
+    <script type="module" crossorigin src="/assets/index-BpfJrrf6.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/preload-helper-Dd-HcVz_.js">
+    <link rel="modulepreload" crossorigin href="/assets/common-C8IKLUS-.js">
     <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-S-ySWqyJ.js">
-    <link rel="modulepreload" crossorigin href="/assets/preload-helper-rov5CBGT.js">
-    <link rel="modulepreload" crossorigin href="/assets/common-CLy2Hc3Y.js">
-    <link rel="modulepreload" crossorigin href="/assets/lucide-shared-4Juvm31V.js">
-    <link rel="modulepreload" crossorigin href="/assets/bell-BkbYGWxz.js">
-    <link rel="modulepreload" crossorigin href="/assets/building-2-C4D9FChx.js">
-    <link rel="modulepreload" crossorigin href="/assets/chart-column-DCpm6s8L.js">
-    <link rel="modulepreload" crossorigin href="/assets/chart-line-Dms5-sEW.js">
-    <link rel="modulepreload" crossorigin href="/assets/chart-pie-C7sd0R05.js">
-    <link rel="modulepreload" crossorigin href="/assets/file-chart-column-increasing-BJAQIf00.js">
-    <link rel="modulepreload" crossorigin href="/assets/file-output-BghUfVhb.js">
-    <link rel="modulepreload" crossorigin href="/assets/file-spreadsheet-B1OK3reu.js">
-    <link rel="modulepreload" crossorigin href="/assets/file-text-Dav21L36.js">
-    <link rel="modulepreload" crossorigin href="/assets/key-CwW3t287.js">
-    <link rel="modulepreload" crossorigin href="/assets/layout-dashboard-Z7vqOts0.js">
-    <link rel="modulepreload" crossorigin href="/assets/list-checks-B18QJ5rN.js">
-    <link rel="modulepreload" crossorigin href="/assets/list-BX2wGEh1.js">
-    <link rel="modulepreload" crossorigin href="/assets/lock-keyhole-CiG6VTua.js">
-    <link rel="modulepreload" crossorigin href="/assets/menu-Buc7ARKm.js">
-    <link rel="modulepreload" crossorigin href="/assets/palette-DfEizYkf.js">
-    <link rel="modulepreload" crossorigin href="/assets/panels-top-left-BtEqqs0B.js">
-    <link rel="modulepreload" crossorigin href="/assets/rows-3-DsCbjDgo.js">
-    <link rel="modulepreload" crossorigin href="/assets/settings-2-DEY6DkKc.js">
-    <link rel="modulepreload" crossorigin href="/assets/settings-ChZ_8HyL.js">
-    <link rel="modulepreload" crossorigin href="/assets/shield-check-BIw2us2I.js">
-    <link rel="modulepreload" crossorigin href="/assets/shield-CQHB-kPx.js">
-    <link rel="modulepreload" crossorigin href="/assets/sun-aYyHkGsB.js">
-    <link rel="modulepreload" crossorigin href="/assets/user-cog-CGmyXzUH.js">
-    <link rel="modulepreload" crossorigin href="/assets/user-lock-DqaoVNg1.js">
-    <link rel="modulepreload" crossorigin href="/assets/users-CR2W4QHU.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-j5ykTcyZ.css">
+    <link rel="modulepreload" crossorigin href="/assets/vue-vendor-DmAKv38O.js">
+    <link rel="modulepreload" crossorigin href="/assets/antdv-next-CtpGKYe8.js">
+    <link rel="modulepreload" crossorigin href="/assets/reka-ui-CqnWUK2E.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-DDJjSc_r.js">
+    <link rel="modulepreload" crossorigin href="/assets/lucide-shared-fmHFYupG.js">
+    <link rel="modulepreload" crossorigin href="/assets/lucide-icons-_S7dvDnq.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DON4WQnG.css">
   </head>
   <body>
     <div id="app"></div>

@@ -1,1 +1,0 @@
-import{t as e}from"./lucide-shared-4Juvm31V.js";var t=e(`tally-3`,[[`path`,{d:`M4 4v16`,key:`6qkkli`}],[`path`,{d:`M9 4v16`,key:`81ygyz`}],[`path`,{d:`M14 4v16`,key:`12vmem`}]]);export{t as default};

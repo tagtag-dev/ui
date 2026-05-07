@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{t}from"./lucide-shared-4Juvm31V.js";var n=e({default:()=>r}),r=t(`plus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}],[`path`,{d:`M12 5v14`,key:`s699le`}]]);export{n,r as t};
